@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Giới thiệu Bản Thân</title>
+</head>
+<body>
+    <div class="container">
+        <div class="profile-section">
+            <img src="your-photo.jpg" alt="Hình ảnh cá nhân" class="profile-pic">
+            <h1>[Tên của bạn]</h1>
+            <ul>
+                <li>Tuổi: [Tuổi của bạn]</li>
+                <li>Địa chỉ: [Địa chỉ của bạn]</li>
+                <li>Email: <a href="mailto:[Email của bạn]">[Email của bạn]</a></li>
+                <li><strong>Sở thích:</strong></li>
+                <li>[Sở thích 1]</li>
+                <li>[Sở thích 2]</li>
+                <li>[Sở thích 3]</li>
+            </ul>
+        </div>
+        <div class="bio-section">
+            <h2>Đôi nét về tôi</h2>
+            <p>Tôi là một người yêu thích học hỏi và khám phá những điều mới mẻ. Tôi thích [mô tả thêm về bạn].</p>
+            <p><strong>Kết nối với tôi:</strong></p>
+            <div class="social-links">
+                <a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a>
+                <a href="https://www.facebook.com/yourprofile" target="_blank">Facebook</a>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
